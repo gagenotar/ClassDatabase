@@ -1,0 +1,82 @@
+==================
+------------------
+4 muhammad omar 5/12/1996
+c4 math2 spring22 95 A
+c5 physics2 spring22 89 B
+------------------
+45 ali omar 10/10/1996
+------------------
+==================
+------------------
+not found
+------------------
+==================
+------------------
+4 muhammad omar 5/12/1996
+c4 math2 spring22 95 A
+c5 physics2 spring22 89 B
+------------------
+==================
+------------------
+4 muhammad omar 5/12/1996
+c4 math2 spring22 95 A
+c5 physics2 spring22 89 B
+------------------
+1 christian thompsen 8/8/1996
+------------------
+45 ali omar 10/10/1996
+------------------
+==================
+------------------
+intro_to_C 3
+edward travis fall22 80 B
+coral akagbosu fall22 70 C
+ahmed salah spring22 99 A
+------------------
+==================
+------------------
+intro_to_C 3
+edward travis fall22 80 B
+coral akagbosu fall22 70 C
+------------------
+==================
+------------------
+violation of course id uniqueness. Cannot add the record.
+------------------
+==================
+------------------
+violation of course id uniqueness. Cannot add the record.
+------------------
+==================
+------------------
+total students 8
+------------------
+==================
+------------------
+c1 3
+c2 4
+c3 1
+c4 2
+c5 2
+c6 0
+c7 0
+------------------
+==================
+------------------
+fall22 8
+spring22 4
+------------------
+==================
+------------------
+1 christian thompsen 8/8/1996
+2 coral akagbosu 9/9/1995
+4 muhammad omar 5/12/1996
+10 edward travis 12/31/1995
+13 ahmed salah 12/19/1995
+21 allan edmonds 11/11/1989
+40 samer akileh 10/10/1994
+45 ali omar 10/10/1996
+------------------
+==================
+------------------
+Bye!
